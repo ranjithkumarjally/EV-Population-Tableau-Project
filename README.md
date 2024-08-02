@@ -1,6 +1,6 @@
 # Electric Vehicle Data Analysis Report
 ## Overview
-This repository contains a comprehensive analysis of electric vehicle (EV) data. The analysis is performed using Power BI and provides insights into various aspects of the EV market, including vehicle types, manufacturers, model years, and state-wise distribution. The goal of this project is to offer a detailed understanding of the EV landscape and assist stakeholders in making data-driven decisions.
+This repository contains a detailed data analysis report on electric vehicles (EV) using Tableau. The report provides insights into various aspects of EV data, including vehicle types, manufacturers, and regional distributions. The goal of this project is to help stakeholders understand the trends and key metrics in the electric vehicle market, facilitating informed decision-making.
 ## Dashboard image:
 ![ELECTRIC VEHICLE DATA ANALYSIS](https://github.com/user-attachments/assets/4dd41b69-a21a-4ee1-b49e-1004cf126af2)
 
